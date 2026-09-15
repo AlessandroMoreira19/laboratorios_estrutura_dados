@@ -10,13 +10,12 @@ O objetivo principal é aplicar conceitos fundamentais de organização, manipul
 
 Atualmente, o projeto está dividido nos seguintes módulos práticos:
 
-* **`Biblioteca Matemática/`** - Implementação de uma biblioteca focada em operações matemáticas estruturadas.
+* **`BibliotecaMatematica/`** - Implementação de uma biblioteca em C focada em operações matemáticas estruturadas.
+* **`FilaPrioridadePedidos/`** - Sistema de fila de prioridades para atendimento de pedidos utilizando a estrutura de árvore **Max-Heap** construída sobre um vetor.
 * **`Genius/`** - Implementação do clássico jogo de memória utilizando uma **Fila Dinâmica Encadeada** (FIFO) com manipulação de ponteiros.
-* **`Analise_Vetores/`** - Aplicação para armazenar e manipular vetores reais (Arrays), implementando cálculos algébricos avançados (Norma, Produto Escalar, Similaridade de Cosseno).
-* **`Playlist_Musicas/`** - Gerenciador dinâmico de playlist construído sobre uma **Lista Dinâmica Encadeada**, permitindo inserções e remoções em qualquer ponto da memória.
-* **`Torre_Hanoi/`** - O clássico quebra-cabeça matemático implementado utilizando a estrutura de **Pilha Dinâmica Encadeada** (LIFO).
-* **`Pedidos_MaxHeap/`** - Sistema de fila de prioridades para atendimento de pedidos utilizando a estrutura de árvore **Max-Heap** construída sobre um vetor.
-* **`Tabela_Hash/`** - Implementação de uma Função de Espalhamento (Hash) com tratamento de colisões utilizando **Encadeamento Externo** (Listas Encadeadas).
+* **`Playlist/`** - Gerenciador dinâmico de músicas construído sobre uma **Lista Dinâmica Encadeada**, permitindo inserções e remoções em qualquer ponto da memória.
+* **`TabelasHash/`** - Implementação de uma Função de Espalhamento (Hash) com tratamento de colisões utilizando **Encadeamento Externo** (Listas Encadeadas).
+* **`TorredeHanoi/`** - O clássico quebra-cabeça matemático implementado utilizando a estrutura de **Pilha Dinâmica Encadeada** (LIFO).
 
 ---
 
